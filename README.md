@@ -1,1 +1,99 @@
-# ProjetoBlog
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TecBlog</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="css/estilo.css"> 
+    </head>
+<body>
+
+    <div id="area-cabecalho">
+
+        <div id="area-logo">
+            <h1>Tec<span class="branco">Blog</span></h1>
+        </div>
+        <div id="area-menu">
+            <a href="index.html">Home</a>
+            <a href="jogos.html">Home</a>
+            <a href="celulares.html">Home</a>
+            <a href="informatica.html">Home</a>
+            <a href="eletronicos.html">Home</a>
+        </div>
+
+    </div>
+
+    <div id="area-principal">
+
+        <div id="area-postagens">
+
+            <!--abertura postagem-->
+            <div class="postagem">
+                <h2>Título da postagem 1</h2>
+                <span class="data-postagem">postado 20 março 2022</span>
+                <img width="620px" src="imagens/imagem1.jpg">
+                <p>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                    when an unknown printer took a galley of type and scrambled it to make a type 
+                    specimen book. It has survived not only five centuries, but also the leap into 
+                    electronic typesetting, remaining essentially unchanged. It was popularised in 
+                    the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, a
+                    nd more recently with desktop publishing software like Aldus PageMaker including 
+                    versions of Lorem Ipsum.   
+
+                </p>
+                <a href="">leia mais</a>
+		</div>
+
+            </div><!--//fim da postagem-->
+
+        <div id="area-Postagens">
+
+                <!--abertura postagem-->
+            <div class="postagem">
+                <h2>Título da postagem 2</h2>
+                <span class="data-postagem">postado 10 março 2022</span>
+                <img width="620px" src="imagens/imagem2.jpg">
+                <p>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                    when an unknown printer took a galley of type and scrambled it to make a type 
+                    specimen book. It has survived not only five centuries, but also the leap into 
+                    electronic typesetting, remaining essentially unchanged. It was popularised in 
+                    the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, a
+                    nd more recently with desktop publishing software like Aldus PageMaker including 
+                    versions of Lorem Ipsum.   
+
+                </p>
+                <a href="">leia mais</a>
+
+     </div><!--//fim da postagem-->
+
+        </div>
+
+        <div id="area-lateral">
+
+
+            </div>
+
+        </div>
+
+        <div id="rodape">
+            Todos os direitos reservados.
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+</body>
+
+
+
+
+
+    </html>
